@@ -1,0 +1,16 @@
+
+:root {
+    --global-primary: #0089b4;
+    --global-secondary: #e6a530;
+
+    --global-bg-primary: #ededed;
+    --global-bg-secondary:#c6c5c5;
+
+    --global-text-white: #fff;
+    --global-text-dark: #302c2c;
+
+    --global-border-radius: 4px;
+  
+    --global-font-family: 'montserrat', sans-serif;
+
+}
